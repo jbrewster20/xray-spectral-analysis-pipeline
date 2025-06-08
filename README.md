@@ -17,3 +17,5 @@ This project focuses on analyzing Chandra X-ray Observatory data of the central 
 ## Author
 Jordan Brewster  
 jordanbrewster4@gmail.com
+
+### Note: the attached file shows the analysis for the Milky Way Galaxy instead of M31 (conducted to try matching literature results)
